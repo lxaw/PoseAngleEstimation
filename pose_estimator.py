@@ -28,8 +28,6 @@ class PoseEstimator():
         self.GRAPH_OPT = os.path.join(self.RESOURCES,'graph_opt.pb')
 
         self.NET = cv.dnn.readNetFromTensorflow(self.GRAPH_OPT)
-        self.IN_WIDTH = 396
-        self.IN_HEIGHT = 368
         self.THR = 0.1
 
         self.POINTS = []
