@@ -1,3 +1,5 @@
+# Written by Lex Whalen
+
 from vid_img_manager import VideoImgManager
 import os
 
