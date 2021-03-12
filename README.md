@@ -18,7 +18,6 @@
 * math: https://docs.python.org/3/library/math.html
 * os: https://docs.python.org/3/library/os.html
 
-
 ## The original work:
 * This idea is based on the work from:
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
