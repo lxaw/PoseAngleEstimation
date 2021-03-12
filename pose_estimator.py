@@ -29,6 +29,8 @@ class PoseEstimator():
 
         self.NET = cv.dnn.readNetFromTensorflow(self.GRAPH_OPT)
         self.THR = 0.1
+        self.IN_WIDTH = 396
+        self.IN_HEIGHT = 368
 
         self.POINTS = []
 
