@@ -1,3 +1,5 @@
+# Written by Lex Whalen
+
 import cv2 as cv
 from pose_estimator import PoseEstimator
 from frame_operations import FrameOperations
