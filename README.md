@@ -24,3 +24,6 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ###### :hammer: To do:
 * Compare the pose angles of multiple images, and tell if it is the same pose!
+
+## ❤️ How to Support ❤️
+- If this code or anyother I have written has helped you, feel free to make a donation at https://www.buymeacoffee.com/whalenlexn.
