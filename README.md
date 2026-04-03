@@ -2,9 +2,6 @@
 
 ## Using OpenPose to estimate body angles.
 
-## :cinema: Video:
-* https://youtu.be/OoNDu9B3CjQ
-
 ## :grey_question: What is it?
 * Uses CMU's OpenPose to detect key body angles. For me these were the arms, but I have included legs too.
 * To detect angles, I use the law of cosines (see video)
